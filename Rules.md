@@ -1,23 +1,19 @@
 # Pond-Pirates
-Pond Pirate rules
+Pond Pirate Rules
+ 
+Description:
+  Players earn gold from buying and selling goods, as well as shooting other pirates with cannon balls.
 
-This is just the basic set of rules.  
- 
-Basic overview:  Players earn gold from buying and selling goods or shooting other pirates with cannonballs.  The first pirate to deliver 80 gold to the castle wins, and is crowned the Pirate Prince or Princess of the Pond.   
- 
-Tutorial:
+Winning:
+  The first pirate to deliver 80 gold to the castle wins, and is crowned the Pirate Prince or Princess of the Pond.
 
-Everything should be explained fully in the rules first, tutorial to follow. 
-
-DIAGRAM OF LOADING, PLACING FIRING PIN, HOW TO GRAB
-
-Setup: 
-Place 10 of each;  pearls on Raiders Reef; tigerseye on Hot Rock Haven,  rum barrels get placed in New Ore, and coffee beans in Surf Diego.  Each player gets a boat, firing pin, and 6 cannonballs marked with their color.  The upgraded (metal) cannonballs, get placed in the castle.  [The plain wood colored cannonballs only get used in the advanced rules.]    
- 
-The islands are spun on the four tiles marked with an island.  They are spun to determine a starting position of the ramp that players can access the island. 
- 
-Each player gets 5 gold pieces. The youngest player picks who goes first.   
- 
+Setup:
+  Place 10 pearls on Raiders Reef, tigerseye on Hot Rock Haven, rum barrels on New Ore, and coffee beans on Surf Diego.  
+  The upgraded (metal) cannonballs, get placed in the castle.
+  Each player gets a boat, firing pin, and 6 cannonballs marked with their color.
+  **INSERT ISLAND PLACEMENT**
+  Each player starts with 5 gold
+  
 Play:
 Only the player touches their boat.  You start at either small island with the Pirate flag sticking out of it.  You can start on either side.  You cannot move back to this hex once you leave it.
  
